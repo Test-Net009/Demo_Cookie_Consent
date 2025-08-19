@@ -2,7 +2,7 @@
 let userLang = (navigator.language || (navigator).userLanguage || 'en').slice(0, 2);
 window.klaroConfig = {
   "consentManagerId": "68a416fc2c4d7473990ec11e",
-  "uuid": "03b44424-4de7-4ecf-99b8-5c52ffc84a23",
+  "uuid": "03c7a83a-d87a-4e1f-a769-095102abd43f",
   "domain": "https://oj6kmc.sqdataprivacy.com/cmapi",
   "version": 1,
   "elementID": "SEQRITE",
@@ -30,7 +30,7 @@ window.klaroConfig = {
       },
       "save": "Accept",
       "consentModal": {
-        "title": "Customize Consent Preferences",
+        "title": "<p>Your Consent Preferences</p>",
         "description": "We use cookies to help you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website.  However, we acknowledge  your right to privacy and hence you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. Please note that blocking certain types of cookies might affect your experience of the site. ",
         "buttons": {
           "save": "Accept",
@@ -41,7 +41,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -76,7 +76,7 @@ window.klaroConfig = {
       },
       "save": "Accept",
       "consentModal": {
-        "title": "Customize Consent Preferences",
+        "title": "<p>Your Consent Preferences</p>",
         "description": "We use cookies to help you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website.  However, we acknowledge  your right to privacy and hence you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. Please note that blocking certain types of cookies might affect your experience of the site. ",
         "buttons": {
           "save": "Accept",
@@ -87,7 +87,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -122,7 +122,7 @@ window.klaroConfig = {
       },
       "save": "Accept",
       "consentModal": {
-        "title": "Customize Consent Preferences",
+        "title": "<p>Your Consent Preferences</p>",
         "description": "We use cookies to help you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website.  However, we acknowledge  your right to privacy and hence you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. Please note that blocking certain types of cookies might affect your experience of the site. ",
         "buttons": {
           "save": "Accept",
@@ -133,7 +133,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -168,7 +168,7 @@ window.klaroConfig = {
       },
       "save": "स्वीकार करना",
       "consentModal": {
-        "title": "सहमति प्राथमिकताएँ अनुकूलित करें",
+        "title": "<p>आपकी सहमति प्राथमिकताएँ</p>",
         "description": "हम कुकीज़ का इस्तेमाल आपको पृष्ठों के बीच कुशलतापूर्वक नेविगेट करने, आपकी प्राथमिकताओं को संग्रहीत करने और वेबसाइट के आपके अनुभव को बेहतर बनाने में मदद करने के लिए करते हैं। हालाँकि, हम आपकी गोपनीयता के अधिकार को स्वीकार करते हैं और इसलिए आप कुछ प्रकार की कुकीज़ की अनुमति नहीं देने का विकल्प चुन सकते हैं। अधिक जानकारी प्राप्त करने और हमारी डिफ़ॉल्ट सेटिंग्स बदलने के लिए विभिन्न श्रेणी शीर्षकों पर क्लिक करें। कृपया ध्यान दें कि कुछ प्रकार की कुकीज़ को ब्लॉक करने से साइट के आपके अनुभव पर असर पड़ सकता है। ",
         "buttons": {
           "save": "स्वीकार करना",
@@ -214,7 +214,7 @@ window.klaroConfig = {
       },
       "save": "स्वीकार करना",
       "consentModal": {
-        "title": "सहमति प्राथमिकताएँ अनुकूलित करें",
+        "title": "<p>आपकी सहमति प्राथमिकताएँ</p>",
         "description": "हम कुकीज़ का इस्तेमाल आपको पृष्ठों के बीच कुशलतापूर्वक नेविगेट करने, आपकी प्राथमिकताओं को संग्रहीत करने और वेबसाइट के आपके अनुभव को बेहतर बनाने में मदद करने के लिए करते हैं। हालाँकि, हम आपकी गोपनीयता के अधिकार को स्वीकार करते हैं और इसलिए आप कुछ प्रकार की कुकीज़ की अनुमति नहीं देने का विकल्प चुन सकते हैं। अधिक जानकारी प्राप्त करने और हमारी डिफ़ॉल्ट सेटिंग्स बदलने के लिए विभिन्न श्रेणी शीर्षकों पर क्लिक करें। कृपया ध्यान दें कि कुछ प्रकार की कुकीज़ को ब्लॉक करने से साइट के आपके अनुभव पर असर पड़ सकता है। ",
         "buttons": {
           "save": "स्वीकार करना",
@@ -260,7 +260,7 @@ window.klaroConfig = {
       },
       "save": "स्वीकारा",
       "consentModal": {
-        "title": "संमती प्राधान्ये कस्टमाइझ करा",
+        "title": "<p>तुमची संमती प्राधान्ये</p>",
         "description": "आम्ही कुकीजचा वापर तुम्हाला पृष्ठांमध्ये कार्यक्षमतेने नेव्हिगेट करण्यास, तुमच्या पसंती संग्रहित करण्यास आणि सामान्यतः वेबसाइटवरील तुमचा अनुभव सुधारण्यास मदत करण्यासाठी करतो. तथापि, आम्ही तुमचा गोपनीयतेचा अधिकार मान्य करतो आणि म्हणून तुम्ही काही प्रकारच्या कुकीजना परवानगी न देणे निवडू शकता. अधिक जाणून घेण्यासाठी आणि आमच्या डीफॉल्ट सेटिंग्ज बदलण्यासाठी वेगवेगळ्या श्रेणी शीर्षकांवर क्लिक करा. कृपया लक्षात ठेवा की विशिष्ट प्रकारच्या कुकीज अवरोधित केल्याने साइटवरील तुमच्या अनुभवावर परिणाम होऊ शकतो. ",
         "buttons": {
           "save": "स्वीकारा",
@@ -306,7 +306,7 @@ window.klaroConfig = {
       },
       "save": "स्वीकारा",
       "consentModal": {
-        "title": "संमती प्राधान्ये कस्टमाइझ करा",
+        "title": "<p>तुमची संमती प्राधान्ये</p>",
         "description": "आम्ही कुकीजचा वापर तुम्हाला पृष्ठांमध्ये कार्यक्षमतेने नेव्हिगेट करण्यास, तुमच्या पसंती संग्रहित करण्यास आणि सामान्यतः वेबसाइटवरील तुमचा अनुभव सुधारण्यास मदत करण्यासाठी करतो. तथापि, आम्ही तुमचा गोपनीयतेचा अधिकार मान्य करतो आणि म्हणून तुम्ही काही प्रकारच्या कुकीजना परवानगी न देणे निवडू शकता. अधिक जाणून घेण्यासाठी आणि आमच्या डीफॉल्ट सेटिंग्ज बदलण्यासाठी वेगवेगळ्या श्रेणी शीर्षकांवर क्लिक करा. कृपया लक्षात ठेवा की विशिष्ट प्रकारच्या कुकीज अवरोधित केल्याने साइटवरील तुमच्या अनुभवावर परिणाम होऊ शकतो. ",
         "buttons": {
           "save": "स्वीकारा",
@@ -343,7 +343,7 @@ window.klaroConfig = {
       "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
       "accept": "ஏற்றுக்கொள்",
       "decline": "அனைத்தையும் நிராகரி",
-      "acceptSelected": "தேர்ந்தெடுத்ததை ஏற்றுக்கொள்",
+      "acceptSelected": "தேர்ந்தெடுக்கப்பட்டதை ஏற்றுக்கொள்",
       "ok": "அனைத்தையும் ஏற்றுக்கொள்",
       "consentNotice": {
         "description": "<p>உங்கள் தனியுரிமையை நாங்கள் மதிக்கிறோம்.</p><p> இந்த தனியுரிமைக் கொள்கை, நீங்கள் சேவையைப் பயன்படுத்தும்போது எங்கள் தகவல்களைச் சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளியிடுதல் குறித்த STAR HEALTH கொள்கைகள் மற்றும் நடைமுறைகளை விவரிக்கிறது மற்றும் உங்கள் தனியுரிமை உரிமைகள் மற்றும் பொருந்தக்கூடிய சட்டம் உங்களை எவ்வாறு பாதுகாக்கிறது என்பதை உங்களுக்குத் தெரிவிக்கிறது. இந்தக் கொள்கை ஸ்டார் ஹெல்த் தொடர்பான எந்தவொரு தகவலையும் நேரடியாகவோ அல்லது மறைமுகமாகவோ அணுகக்கூடிய ஸ்டார் ஹெல்த்தின் அனைத்து ஊழியர்கள், அதன் சப்ளையர்கள், விற்பனையாளர்கள் மற்றும் பிற உள் மற்றும் வெளிப்புற ஆர்வமுள்ள தரப்பினருக்கும் பொருந்தும். STAR HEALTH இல், நீங்கள் வழங்கும் உங்கள் தனிப்பட்ட விவரங்கள் மற்றும் நீங்கள் எங்களுடன் பகிர்ந்து கொள்ளும் வேறு எந்த தகவலின் தனியுரிமை மற்றும் பாதுகாப்பைப் பாதுகாக்க நாங்கள் உறுதிபூண்டுள்ளோம், இது எங்கள் வலைத்தளத்தைப் பார்வையிடும்போது உங்களுக்கு சிறந்த அனுபவத்தை வழங்க எங்களுக்கு உதவுகிறது.</p><p> அத்தியாவசிய தள செயல்பாடு, சந்தைப்படுத்தல், தனிப்பயனாக்கம் மற்றும் பகுப்பாய்வு ஆகியவற்றை செயல்படுத்த நாங்கள் குக்கீகளை சேமிக்கிறோம். &quot;அனைத்தையும் ஏற்றுக்கொள்&quot; என்பதைக் கிளிக் செய்வதன் மூலம், எங்கள் குக்கீகளைப் பயன்படுத்துவதற்கு நீங்கள் ஒப்புக்கொள்கிறீர்கள். நீங்கள் எந்த நேரத்திலும் உங்கள் அமைப்புகளை மாற்றலாம்.<br><br> எங்கள் <a href=\"https://google.com\" title=\"https://google.com/ கூகிள்.\" target=\"_blank\">குக்கீ கொள்கை</a> .</p>",
@@ -352,7 +352,7 @@ window.klaroConfig = {
       },
       "save": "ஏற்றுக்கொள்",
       "consentModal": {
-        "title": "ஒப்புதல் விருப்பங்களைத் தனிப்பயனாக்குங்கள்",
+        "title": "<p>உங்கள் ஒப்புதல் விருப்பத்தேர்வுகள்</p>",
         "description": "பக்கங்களுக்கு இடையே திறமையாக செல்லவும், உங்கள் விருப்பங்களைச் சேமிக்கவும், பொதுவாக ஒரு வலைத்தளத்தின் உங்கள் அனுபவத்தை மேம்படுத்தவும் நாங்கள் குக்கீகளைப் பயன்படுத்துகிறோம். இருப்பினும், தனியுரிமைக்கான உங்கள் உரிமையை நாங்கள் ஒப்புக்கொள்கிறோம், எனவே சில வகையான குக்கீகளை அனுமதிக்காமல் இருக்க நீங்கள் தேர்வு செய்யலாம். மேலும் அறியவும் எங்கள் இயல்புநிலை அமைப்புகளை மாற்றவும் வெவ்வேறு வகை தலைப்புகளைக் கிளிக் செய்யவும். சில வகையான குக்கீகளைத் தடுப்பது தளத்தின் உங்கள் அனுபவத்தைப் பாதிக்கலாம் என்பதை நினைவில் கொள்ளவும். ",
         "buttons": {
           "save": "ஏற்றுக்கொள்",
@@ -389,7 +389,7 @@ window.klaroConfig = {
       "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
       "accept": "ஏற்றுக்கொள்",
       "decline": "அனைத்தையும் நிராகரி",
-      "acceptSelected": "தேர்ந்தெடுத்ததை ஏற்றுக்கொள்",
+      "acceptSelected": "தேர்ந்தெடுக்கப்பட்டதை ஏற்றுக்கொள்",
       "ok": "அனைத்தையும் ஏற்றுக்கொள்",
       "consentNotice": {
         "description": "<p>உங்கள் தனியுரிமையை நாங்கள் மதிக்கிறோம்.</p><p> இந்த தனியுரிமைக் கொள்கை, நீங்கள் சேவையைப் பயன்படுத்தும்போது எங்கள் தகவல்களைச் சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளியிடுதல் குறித்த STAR HEALTH கொள்கைகள் மற்றும் நடைமுறைகளை விவரிக்கிறது மற்றும் உங்கள் தனியுரிமை உரிமைகள் மற்றும் பொருந்தக்கூடிய சட்டம் உங்களை எவ்வாறு பாதுகாக்கிறது என்பதை உங்களுக்குத் தெரிவிக்கிறது. இந்தக் கொள்கை ஸ்டார் ஹெல்த் தொடர்பான எந்தவொரு தகவலையும் நேரடியாகவோ அல்லது மறைமுகமாகவோ அணுகக்கூடிய ஸ்டார் ஹெல்த்தின் அனைத்து ஊழியர்கள், அதன் சப்ளையர்கள், விற்பனையாளர்கள் மற்றும் பிற உள் மற்றும் வெளிப்புற ஆர்வமுள்ள தரப்பினருக்கும் பொருந்தும். STAR HEALTH இல், நீங்கள் வழங்கும் உங்கள் தனிப்பட்ட விவரங்கள் மற்றும் நீங்கள் எங்களுடன் பகிர்ந்து கொள்ளும் வேறு எந்த தகவலின் தனியுரிமை மற்றும் பாதுகாப்பைப் பாதுகாக்க நாங்கள் உறுதிபூண்டுள்ளோம், இது எங்கள் வலைத்தளத்தைப் பார்வையிடும்போது உங்களுக்கு சிறந்த அனுபவத்தை வழங்க எங்களுக்கு உதவுகிறது.</p><p> அத்தியாவசிய தள செயல்பாடு, சந்தைப்படுத்தல், தனிப்பயனாக்கம் மற்றும் பகுப்பாய்வு ஆகியவற்றை செயல்படுத்த நாங்கள் குக்கீகளை சேமிக்கிறோம். &quot;அனைத்தையும் ஏற்றுக்கொள்&quot; என்பதைக் கிளிக் செய்வதன் மூலம், எங்கள் குக்கீகளைப் பயன்படுத்துவதற்கு நீங்கள் ஒப்புக்கொள்கிறீர்கள். நீங்கள் எந்த நேரத்திலும் உங்கள் அமைப்புகளை மாற்றலாம்.<br><br> எங்கள் <a href=\"https://google.com\" title=\"https://google.com/ கூகிள்.\" target=\"_blank\">குக்கீ கொள்கை</a> .</p>",
@@ -398,7 +398,7 @@ window.klaroConfig = {
       },
       "save": "ஏற்றுக்கொள்",
       "consentModal": {
-        "title": "ஒப்புதல் விருப்பங்களைத் தனிப்பயனாக்குங்கள்",
+        "title": "<p>உங்கள் ஒப்புதல் விருப்பத்தேர்வுகள்</p>",
         "description": "பக்கங்களுக்கு இடையே திறமையாக செல்லவும், உங்கள் விருப்பங்களைச் சேமிக்கவும், பொதுவாக ஒரு வலைத்தளத்தின் உங்கள் அனுபவத்தை மேம்படுத்தவும் நாங்கள் குக்கீகளைப் பயன்படுத்துகிறோம். இருப்பினும், தனியுரிமைக்கான உங்கள் உரிமையை நாங்கள் ஒப்புக்கொள்கிறோம், எனவே சில வகையான குக்கீகளை அனுமதிக்காமல் இருக்க நீங்கள் தேர்வு செய்யலாம். மேலும் அறியவும் எங்கள் இயல்புநிலை அமைப்புகளை மாற்றவும் வெவ்வேறு வகை தலைப்புகளைக் கிளிக் செய்யவும். சில வகையான குக்கீகளைத் தடுப்பது தளத்தின் உங்கள் அனுபவத்தைப் பாதிக்கலாம் என்பதை நினைவில் கொள்ளவும். ",
         "buttons": {
           "save": "ஏற்றுக்கொள்",
@@ -444,7 +444,7 @@ window.klaroConfig = {
       },
       "save": "સ્વીકારો",
       "consentModal": {
-        "title": "સંમતિ પસંદગીઓને કસ્ટમાઇઝ કરો",
+        "title": "<p>તમારી સંમતિ પસંદગીઓ</p>",
         "description": "અમે કૂકીઝનો ઉપયોગ તમને પૃષ્ઠો વચ્ચે કાર્યક્ષમ રીતે નેવિગેટ કરવામાં, તમારી પસંદગીઓને સંગ્રહિત કરવામાં અને સામાન્ય રીતે વેબસાઇટના તમારા અનુભવને સુધારવામાં મદદ કરવા માટે કરીએ છીએ. જો કે, અમે તમારા ગોપનીયતાના અધિકારને સ્વીકારીએ છીએ અને તેથી તમે અમુક પ્રકારની કૂકીઝને મંજૂરી ન આપવાનું પસંદ કરી શકો છો. વધુ જાણવા અને અમારી ડિફોલ્ટ સેટિંગ્સ બદલવા માટે વિવિધ શ્રેણીના શીર્ષકો પર ક્લિક કરો. કૃપા કરીને નોંધ લો કે ચોક્કસ પ્રકારની કૂકીઝને અવરોધિત કરવાથી સાઇટના તમારા અનુભવને અસર થઈ શકે છે. ",
         "buttons": {
           "save": "સ્વીકારો",
@@ -490,7 +490,7 @@ window.klaroConfig = {
       },
       "save": "સ્વીકારો",
       "consentModal": {
-        "title": "સંમતિ પસંદગીઓને કસ્ટમાઇઝ કરો",
+        "title": "<p>તમારી સંમતિ પસંદગીઓ</p>",
         "description": "અમે કૂકીઝનો ઉપયોગ તમને પૃષ્ઠો વચ્ચે કાર્યક્ષમ રીતે નેવિગેટ કરવામાં, તમારી પસંદગીઓને સંગ્રહિત કરવામાં અને સામાન્ય રીતે વેબસાઇટના તમારા અનુભવને સુધારવામાં મદદ કરવા માટે કરીએ છીએ. જો કે, અમે તમારા ગોપનીયતાના અધિકારને સ્વીકારીએ છીએ અને તેથી તમે અમુક પ્રકારની કૂકીઝને મંજૂરી ન આપવાનું પસંદ કરી શકો છો. વધુ જાણવા અને અમારી ડિફોલ્ટ સેટિંગ્સ બદલવા માટે વિવિધ શ્રેણીના શીર્ષકો પર ક્લિક કરો. કૃપા કરીને નોંધ લો કે ચોક્કસ પ્રકારની કૂકીઝને અવરોધિત કરવાથી સાઇટના તમારા અનુભવને અસર થઈ શકે છે. ",
         "buttons": {
           "save": "સ્વીકારો",
@@ -536,7 +536,7 @@ window.klaroConfig = {
       },
       "save": "গ্রহণ করুন",
       "consentModal": {
-        "title": "সম্মতি পছন্দগুলি কাস্টমাইজ করুন",
+        "title": "<p>আপনার সম্মতি পছন্দসমূহ</p>",
         "description": "আমরা কুকিজ ব্যবহার করি আপনাকে দক্ষতার সাথে বিভিন্ন পৃষ্ঠায় নেভিগেট করতে, আপনার পছন্দগুলি সংরক্ষণ করতে এবং সাধারণত ওয়েবসাইটের অভিজ্ঞতা উন্নত করতে। তবে, আমরা আপনার গোপনীয়তার অধিকার স্বীকার করি এবং তাই আপনি কিছু ধরণের কুকিজকে অনুমতি না দেওয়ার সিদ্ধান্ত নিতে পারেন। আরও জানতে এবং আমাদের ডিফল্ট সেটিংস পরিবর্তন করতে বিভিন্ন বিভাগের শিরোনামে ক্লিক করুন। দয়া করে মনে রাখবেন যে নির্দিষ্ট ধরণের কুকিজ ব্লক করা সাইটের আপনার অভিজ্ঞতাকে প্রভাবিত করতে পারে। ",
         "buttons": {
           "save": "গ্রহণ করুন",
@@ -582,7 +582,7 @@ window.klaroConfig = {
       },
       "save": "গ্রহণ করুন",
       "consentModal": {
-        "title": "সম্মতি পছন্দগুলি কাস্টমাইজ করুন",
+        "title": "<p>আপনার সম্মতি পছন্দসমূহ</p>",
         "description": "আমরা কুকিজ ব্যবহার করি আপনাকে দক্ষতার সাথে বিভিন্ন পৃষ্ঠায় নেভিগেট করতে, আপনার পছন্দগুলি সংরক্ষণ করতে এবং সাধারণত ওয়েবসাইটের অভিজ্ঞতা উন্নত করতে। তবে, আমরা আপনার গোপনীয়তার অধিকার স্বীকার করি এবং তাই আপনি কিছু ধরণের কুকিজকে অনুমতি না দেওয়ার সিদ্ধান্ত নিতে পারেন। আরও জানতে এবং আমাদের ডিফল্ট সেটিংস পরিবর্তন করতে বিভিন্ন বিভাগের শিরোনামে ক্লিক করুন। দয়া করে মনে রাখবেন যে নির্দিষ্ট ধরণের কুকিজ ব্লক করা সাইটের আপনার অভিজ্ঞতাকে প্রভাবিত করতে পারে। ",
         "buttons": {
           "save": "গ্রহণ করুন",
