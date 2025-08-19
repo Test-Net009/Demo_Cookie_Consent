@@ -1,14 +1,14 @@
 
 let userLang = (navigator.language || (navigator).userLanguage || 'en').slice(0, 2);
 window.klaroConfig = {
-  "consentManagerId": "68a311e69c450e1ee5a80913",
-  "uuid": "8ddf0d0d-c82a-4f67-90ba-97f2ac7b8314",
-  "domain": "https://demo-shp.qhtpl.com/cmapi",
+  "consentManagerId": "68a416fc2c4d7473990ec11e",
+  "uuid": "03b44424-4de7-4ecf-99b8-5c52ffc84a23",
+  "domain": "https://oj6kmc.sqdataprivacy.com/cmapi",
   "version": 1,
   "elementID": "SEQRITE",
   lang: userLang,
   "storageMethod": "cookie",
-  "storageName": "sdpdemocookieconsent.netlify.app/",
+  "storageName": "sdpdemocookieconsent.netlify.app",
   "cookieExpiresAfterDays": 365,
   "default": false,
   "mustConsent": false,
@@ -24,7 +24,7 @@ window.klaroConfig = {
       "acceptSelected": "Accept Selected",
       "ok": "Accept All",
       "consentNotice": {
-        "description": "<p><strong>We respect your privacy</strong></p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>Cookie Policy.</u></a><u><br><br>Created by Tanmay</u></p>",
+        "description": "<p>We respect your privacy.</p><p>This Privacy Policy describes STAR HEALTH policies and procedures on the collection, use and disclosure of our information when you use the service and informs you of your privacy rights and how the applicable law protects you. This policy is applicable to all the employees of Star Health, its suppliers, vendors, and other internal and external interested parties who have direct or indirect access to the any type of information pertaining to Star Health. At STAR HEALTH we are committed to protecting the privacy and security of your personal details that you provide and any other information that you share with us, which allows us to provide you with the best possible experience during your visit to our website.</p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <br><br>Our <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">Cookie Policy</a>.</p>",
         "learnMore": "Customize",
         "changeDescription": " "
       },
@@ -41,7 +41,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -70,7 +70,7 @@ window.klaroConfig = {
       "acceptSelected": "Accept Selected",
       "ok": "Accept All",
       "consentNotice": {
-        "description": "<p><strong>We respect your privacy</strong></p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>Cookie Policy.</u></a><u><br><br>Created by Tanmay</u></p>",
+        "description": "<p>We respect your privacy.</p><p>This Privacy Policy describes STAR HEALTH policies and procedures on the collection, use and disclosure of our information when you use the service and informs you of your privacy rights and how the applicable law protects you. This policy is applicable to all the employees of Star Health, its suppliers, vendors, and other internal and external interested parties who have direct or indirect access to the any type of information pertaining to Star Health. At STAR HEALTH we are committed to protecting the privacy and security of your personal details that you provide and any other information that you share with us, which allows us to provide you with the best possible experience during your visit to our website.</p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <br><br>Our <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">Cookie Policy</a>.</p>",
         "learnMore": "Customize",
         "changeDescription": " "
       },
@@ -87,7 +87,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -116,7 +116,7 @@ window.klaroConfig = {
       "acceptSelected": "Accept Selected",
       "ok": "Accept All",
       "consentNotice": {
-        "description": "<p><strong>We respect your privacy</strong></p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>Cookie Policy.</u></a><u><br><br>Created by Tanmay</u></p>",
+        "description": "<p>We respect your privacy.</p><p>This Privacy Policy describes STAR HEALTH policies and procedures on the collection, use and disclosure of our information when you use the service and informs you of your privacy rights and how the applicable law protects you. This policy is applicable to all the employees of Star Health, its suppliers, vendors, and other internal and external interested parties who have direct or indirect access to the any type of information pertaining to Star Health. At STAR HEALTH we are committed to protecting the privacy and security of your personal details that you provide and any other information that you share with us, which allows us to provide you with the best possible experience during your visit to our website.</p><p>We store cookies to enable essential site functionality, as well as marketing, personalization and analytics. By clicking “Accept All”, you consent to our use of cookies. You can change your settings at any time. <br><br>Our <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">Cookie Policy</a>.</p>",
         "learnMore": "Customize",
         "changeDescription": " "
       },
@@ -133,7 +133,7 @@ window.klaroConfig = {
       "poweredBy": "Powered by Seqrite",
       "purposes": {
         "Analytics": {
-          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance.</p>"
+          "description": "<p>These cookies help us analyze website traffic, user behavior, and engagement patterns. The insights gathered allow us to optimize content, enhance usability, and improve overall site performance. </p>"
         },
         "Others": {
           "description": "<p>This category includes cookies that do not fit into the predefined categories but may be necessary for certain website functionalities or improvements.</p>"
@@ -162,7 +162,7 @@ window.klaroConfig = {
       "acceptSelected": "चयनित स्वीकार करें",
       "ok": "सभी स्वीकृत",
       "consentNotice": {
-        "description": "<p><strong>हम आपकी गोपनीयता का सम्मान करते हैं</strong></p><p> हम आवश्यक साइट कार्यक्षमता, साथ ही मार्केटिंग, वैयक्तिकरण और विश्लेषण को सक्षम करने के लिए कुकीज़ संग्रहीत करते हैं। &quot;सभी स्वीकार करें&quot; पर क्लिक करके, आप कुकीज़ के हमारे उपयोग के लिए सहमति देते हैं। आप अपनी सेटिंग कभी भी बदल सकते हैं। <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>कुकी नीति।</u></a> <u><br><br>तन्मय द्वारा निर्मित</u></p>",
+        "description": "<p>हम आपकी गोपनीयता का सम्मान करते हैं।</p><p> यह गोपनीयता नीति, सेवा का उपयोग करते समय हमारी जानकारी के संग्रह, उपयोग और प्रकटीकरण से संबंधित STAR HEALTH की नीतियों और प्रक्रियाओं का वर्णन करती है और आपको आपके गोपनीयता अधिकारों और लागू कानून द्वारा आपकी सुरक्षा के बारे में बताती है। यह नीति स्टार हेल्थ के सभी कर्मचारियों, उसके आपूर्तिकर्ताओं, विक्रेताओं और अन्य आंतरिक व बाहरी हितधारकों पर लागू होती है, जिनकी स्टार हेल्थ से संबंधित किसी भी प्रकार की जानकारी तक प्रत्यक्ष या अप्रत्यक्ष पहुँच है। STAR HEALTH में, हम आपके द्वारा प्रदान की जाने वाली आपकी व्यक्तिगत जानकारी और आपके द्वारा हमारे साथ साझा की जाने वाली किसी भी अन्य जानकारी की गोपनीयता और सुरक्षा की रक्षा के लिए प्रतिबद्ध हैं, जिससे हम आपको हमारी वेबसाइट पर आपकी यात्रा के दौरान सर्वोत्तम संभव अनुभव प्रदान कर सकें।</p><p> हम आवश्यक साइट कार्यक्षमता, साथ ही मार्केटिंग, वैयक्तिकरण और विश्लेषण को सक्षम करने के लिए कुकीज़ संग्रहीत करते हैं। &quot;सभी स्वीकार करें&quot; पर क्लिक करके, आप कुकीज़ के हमारे उपयोग के लिए सहमति देते हैं। आप अपनी सेटिंग कभी भी बदल सकते हैं।<br><br> हमारी <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">कुकी नीति</a> .</p>",
         "learnMore": "अनुकूलित करें",
         "changeDescription": " "
       },
@@ -208,7 +208,7 @@ window.klaroConfig = {
       "acceptSelected": "चयनित स्वीकार करें",
       "ok": "सभी स्वीकृत",
       "consentNotice": {
-        "description": "<p><strong>हम आपकी गोपनीयता का सम्मान करते हैं</strong></p><p> हम आवश्यक साइट कार्यक्षमता, साथ ही मार्केटिंग, वैयक्तिकरण और विश्लेषण को सक्षम करने के लिए कुकीज़ संग्रहीत करते हैं। &quot;सभी स्वीकार करें&quot; पर क्लिक करके, आप कुकीज़ के हमारे उपयोग के लिए सहमति देते हैं। आप अपनी सेटिंग कभी भी बदल सकते हैं। <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>कुकी नीति।</u></a> <u><br><br>तन्मय द्वारा निर्मित</u></p>",
+        "description": "<p>हम आपकी गोपनीयता का सम्मान करते हैं।</p><p> यह गोपनीयता नीति, सेवा का उपयोग करते समय हमारी जानकारी के संग्रह, उपयोग और प्रकटीकरण से संबंधित STAR HEALTH की नीतियों और प्रक्रियाओं का वर्णन करती है और आपको आपके गोपनीयता अधिकारों और लागू कानून द्वारा आपकी सुरक्षा के बारे में बताती है। यह नीति स्टार हेल्थ के सभी कर्मचारियों, उसके आपूर्तिकर्ताओं, विक्रेताओं और अन्य आंतरिक व बाहरी हितधारकों पर लागू होती है, जिनकी स्टार हेल्थ से संबंधित किसी भी प्रकार की जानकारी तक प्रत्यक्ष या अप्रत्यक्ष पहुँच है। STAR HEALTH में, हम आपके द्वारा प्रदान की जाने वाली आपकी व्यक्तिगत जानकारी और आपके द्वारा हमारे साथ साझा की जाने वाली किसी भी अन्य जानकारी की गोपनीयता और सुरक्षा की रक्षा के लिए प्रतिबद्ध हैं, जिससे हम आपको हमारी वेबसाइट पर आपकी यात्रा के दौरान सर्वोत्तम संभव अनुभव प्रदान कर सकें।</p><p> हम आवश्यक साइट कार्यक्षमता, साथ ही मार्केटिंग, वैयक्तिकरण और विश्लेषण को सक्षम करने के लिए कुकीज़ संग्रहीत करते हैं। &quot;सभी स्वीकार करें&quot; पर क्लिक करके, आप कुकीज़ के हमारे उपयोग के लिए सहमति देते हैं। आप अपनी सेटिंग कभी भी बदल सकते हैं।<br><br> हमारी <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">कुकी नीति</a> .</p>",
         "learnMore": "अनुकूलित करें",
         "changeDescription": " "
       },
@@ -254,7 +254,7 @@ window.klaroConfig = {
       "acceptSelected": "निवडलेले स्वीकारा",
       "ok": "सर्व स्वीकारा",
       "consentNotice": {
-        "description": "<p><strong>आम्ही तुमच्या गोपनीयतेचा आदर करतो.</strong></p><p> आम्ही आवश्यक साइट कार्यक्षमता, तसेच मार्केटिंग, वैयक्तिकरण आणि विश्लेषण सक्षम करण्यासाठी कुकीज संग्रहित करतो. &quot;सर्व स्वीकारा&quot; वर क्लिक करून, तुम्ही आमच्या कुकीजच्या वापरास संमती देता. तुम्ही कधीही तुमच्या सेटिंग्ज बदलू शकता. <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>कुकी धोरण.</u></a> <u><br><br>तन्मय यांनी तयार केले</u></p>",
+        "description": "<p>आम्ही तुमच्या गोपनीयतेचा आदर करतो.</p><p> हे गोपनीयता धोरण तुम्ही सेवा वापरता तेव्हा आमच्या माहितीचे संकलन, वापर आणि प्रकटीकरण यावरील STAR HEALTH धोरणे आणि प्रक्रियांचे वर्णन करते आणि तुम्हाला तुमचे गोपनीयता अधिकार आणि लागू कायदा तुमचे संरक्षण कसे करतो याची माहिती देते. हे धोरण स्टार हेल्थच्या सर्व कर्मचाऱ्यांना, त्याचे पुरवठादारांना, विक्रेत्यांना आणि स्टार हेल्थशी संबंधित कोणत्याही प्रकारच्या माहितीवर प्रत्यक्ष किंवा अप्रत्यक्ष प्रवेश असलेल्या इतर अंतर्गत आणि बाह्य इच्छुक पक्षांना लागू आहे. STAR HEALTH मध्ये आम्ही तुम्ही प्रदान केलेल्या तुमच्या वैयक्तिक तपशीलांची आणि तुम्ही आमच्यासोबत शेअर केलेल्या इतर कोणत्याही माहितीची गोपनीयता आणि सुरक्षितता संरक्षित करण्यास वचनबद्ध आहोत, ज्यामुळे आम्हाला आमच्या वेबसाइटला भेट देताना तुम्हाला सर्वोत्तम अनुभव प्रदान करता येतो.</p><p> आम्ही आवश्यक साइट कार्यक्षमता, तसेच मार्केटिंग, वैयक्तिकरण आणि विश्लेषण सक्षम करण्यासाठी कुकीज संग्रहित करतो. &quot;सर्व स्वीकारा&quot; वर क्लिक करून, तुम्ही आमच्या कुकीजच्या वापरास संमती देता. तुम्ही कधीही तुमच्या सेटिंग्ज बदलू शकता.<br><br> आमचे <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">कुकी धोरण</a> .</p>",
         "learnMore": "सानुकूलित करा",
         "changeDescription": " "
       },
@@ -300,7 +300,7 @@ window.klaroConfig = {
       "acceptSelected": "निवडलेले स्वीकारा",
       "ok": "सर्व स्वीकारा",
       "consentNotice": {
-        "description": "<p><strong>आम्ही तुमच्या गोपनीयतेचा आदर करतो.</strong></p><p> आम्ही आवश्यक साइट कार्यक्षमता, तसेच मार्केटिंग, वैयक्तिकरण आणि विश्लेषण सक्षम करण्यासाठी कुकीज संग्रहित करतो. &quot;सर्व स्वीकारा&quot; वर क्लिक करून, तुम्ही आमच्या कुकीजच्या वापरास संमती देता. तुम्ही कधीही तुमच्या सेटिंग्ज बदलू शकता. <a href=\"https://www.google.com/\" title=\"https://www.google.com/\" target=\"_blank\"><u>कुकी धोरण.</u></a> <u><br><br>तन्मय यांनी तयार केले</u></p>",
+        "description": "<p>आम्ही तुमच्या गोपनीयतेचा आदर करतो.</p><p> हे गोपनीयता धोरण तुम्ही सेवा वापरता तेव्हा आमच्या माहितीचे संकलन, वापर आणि प्रकटीकरण यावरील STAR HEALTH धोरणे आणि प्रक्रियांचे वर्णन करते आणि तुम्हाला तुमचे गोपनीयता अधिकार आणि लागू कायदा तुमचे संरक्षण कसे करतो याची माहिती देते. हे धोरण स्टार हेल्थच्या सर्व कर्मचाऱ्यांना, त्याचे पुरवठादारांना, विक्रेत्यांना आणि स्टार हेल्थशी संबंधित कोणत्याही प्रकारच्या माहितीवर प्रत्यक्ष किंवा अप्रत्यक्ष प्रवेश असलेल्या इतर अंतर्गत आणि बाह्य इच्छुक पक्षांना लागू आहे. STAR HEALTH मध्ये आम्ही तुम्ही प्रदान केलेल्या तुमच्या वैयक्तिक तपशीलांची आणि तुम्ही आमच्यासोबत शेअर केलेल्या इतर कोणत्याही माहितीची गोपनीयता आणि सुरक्षितता संरक्षित करण्यास वचनबद्ध आहोत, ज्यामुळे आम्हाला आमच्या वेबसाइटला भेट देताना तुम्हाला सर्वोत्तम अनुभव प्रदान करता येतो.</p><p> आम्ही आवश्यक साइट कार्यक्षमता, तसेच मार्केटिंग, वैयक्तिकरण आणि विश्लेषण सक्षम करण्यासाठी कुकीज संग्रहित करतो. &quot;सर्व स्वीकारा&quot; वर क्लिक करून, तुम्ही आमच्या कुकीजच्या वापरास संमती देता. तुम्ही कधीही तुमच्या सेटिंग्ज बदलू शकता.<br><br> आमचे <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">कुकी धोरण</a> .</p>",
         "learnMore": "सानुकूलित करा",
         "changeDescription": " "
       },
@@ -338,6 +338,282 @@ window.klaroConfig = {
         "service": "सेवा",
         "services": "सेवा"
       }
+    },
+    "tamil": {
+      "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
+      "accept": "ஏற்றுக்கொள்",
+      "decline": "அனைத்தையும் நிராகரி",
+      "acceptSelected": "தேர்ந்தெடுத்ததை ஏற்றுக்கொள்",
+      "ok": "அனைத்தையும் ஏற்றுக்கொள்",
+      "consentNotice": {
+        "description": "<p>உங்கள் தனியுரிமையை நாங்கள் மதிக்கிறோம்.</p><p> இந்த தனியுரிமைக் கொள்கை, நீங்கள் சேவையைப் பயன்படுத்தும்போது எங்கள் தகவல்களைச் சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளியிடுதல் குறித்த STAR HEALTH கொள்கைகள் மற்றும் நடைமுறைகளை விவரிக்கிறது மற்றும் உங்கள் தனியுரிமை உரிமைகள் மற்றும் பொருந்தக்கூடிய சட்டம் உங்களை எவ்வாறு பாதுகாக்கிறது என்பதை உங்களுக்குத் தெரிவிக்கிறது. இந்தக் கொள்கை ஸ்டார் ஹெல்த் தொடர்பான எந்தவொரு தகவலையும் நேரடியாகவோ அல்லது மறைமுகமாகவோ அணுகக்கூடிய ஸ்டார் ஹெல்த்தின் அனைத்து ஊழியர்கள், அதன் சப்ளையர்கள், விற்பனையாளர்கள் மற்றும் பிற உள் மற்றும் வெளிப்புற ஆர்வமுள்ள தரப்பினருக்கும் பொருந்தும். STAR HEALTH இல், நீங்கள் வழங்கும் உங்கள் தனிப்பட்ட விவரங்கள் மற்றும் நீங்கள் எங்களுடன் பகிர்ந்து கொள்ளும் வேறு எந்த தகவலின் தனியுரிமை மற்றும் பாதுகாப்பைப் பாதுகாக்க நாங்கள் உறுதிபூண்டுள்ளோம், இது எங்கள் வலைத்தளத்தைப் பார்வையிடும்போது உங்களுக்கு சிறந்த அனுபவத்தை வழங்க எங்களுக்கு உதவுகிறது.</p><p> அத்தியாவசிய தள செயல்பாடு, சந்தைப்படுத்தல், தனிப்பயனாக்கம் மற்றும் பகுப்பாய்வு ஆகியவற்றை செயல்படுத்த நாங்கள் குக்கீகளை சேமிக்கிறோம். &quot;அனைத்தையும் ஏற்றுக்கொள்&quot; என்பதைக் கிளிக் செய்வதன் மூலம், எங்கள் குக்கீகளைப் பயன்படுத்துவதற்கு நீங்கள் ஒப்புக்கொள்கிறீர்கள். நீங்கள் எந்த நேரத்திலும் உங்கள் அமைப்புகளை மாற்றலாம்.<br><br> எங்கள் <a href=\"https://google.com\" title=\"https://google.com/ கூகிள்.\" target=\"_blank\">குக்கீ கொள்கை</a> .</p>",
+        "learnMore": "தனிப்பயனாக்கு",
+        "changeDescription": " "
+      },
+      "save": "ஏற்றுக்கொள்",
+      "consentModal": {
+        "title": "ஒப்புதல் விருப்பங்களைத் தனிப்பயனாக்குங்கள்",
+        "description": "பக்கங்களுக்கு இடையே திறமையாக செல்லவும், உங்கள் விருப்பங்களைச் சேமிக்கவும், பொதுவாக ஒரு வலைத்தளத்தின் உங்கள் அனுபவத்தை மேம்படுத்தவும் நாங்கள் குக்கீகளைப் பயன்படுத்துகிறோம். இருப்பினும், தனியுரிமைக்கான உங்கள் உரிமையை நாங்கள் ஒப்புக்கொள்கிறோம், எனவே சில வகையான குக்கீகளை அனுமதிக்காமல் இருக்க நீங்கள் தேர்வு செய்யலாம். மேலும் அறியவும் எங்கள் இயல்புநிலை அமைப்புகளை மாற்றவும் வெவ்வேறு வகை தலைப்புகளைக் கிளிக் செய்யவும். சில வகையான குக்கீகளைத் தடுப்பது தளத்தின் உங்கள் அனுபவத்தைப் பாதிக்கலாம் என்பதை நினைவில் கொள்ளவும். ",
+        "buttons": {
+          "save": "ஏற்றுக்கொள்",
+          "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
+          "decline": "அனைத்தையும் நிராகரி"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>இந்த குக்கீகள் வலைத்தள போக்குவரத்து, பயனர் நடத்தை மற்றும் ஈடுபாட்டு முறைகளை பகுப்பாய்வு செய்ய எங்களுக்கு உதவுகின்றன. சேகரிக்கப்பட்ட நுண்ணறிவுகள் உள்ளடக்கத்தை மேம்படுத்தவும், பயன்பாட்டினை மேம்படுத்தவும், ஒட்டுமொத்த தள செயல்திறனை மேம்படுத்தவும் எங்களுக்கு உதவுகின்றன.</p>"
+        },
+        "Others": {
+          "description": "<p>இந்த பிரிவில் முன் வரையறுக்கப்பட்ட வகைகளுக்குள் பொருந்தாத குக்கீகள் அடங்கும், ஆனால் சில வலைத்தள செயல்பாடுகள் அல்லது மேம்பாடுகளுக்கு அவசியமாக இருக்கலாம்.</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "நோக்கம்"
+      },
+      "purposeItem": {
+        "service": "சேவை",
+        "services": "சேவைகள்"
+      }
+    },
+    "ta": {
+      "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
+      "accept": "ஏற்றுக்கொள்",
+      "decline": "அனைத்தையும் நிராகரி",
+      "acceptSelected": "தேர்ந்தெடுத்ததை ஏற்றுக்கொள்",
+      "ok": "அனைத்தையும் ஏற்றுக்கொள்",
+      "consentNotice": {
+        "description": "<p>உங்கள் தனியுரிமையை நாங்கள் மதிக்கிறோம்.</p><p> இந்த தனியுரிமைக் கொள்கை, நீங்கள் சேவையைப் பயன்படுத்தும்போது எங்கள் தகவல்களைச் சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளியிடுதல் குறித்த STAR HEALTH கொள்கைகள் மற்றும் நடைமுறைகளை விவரிக்கிறது மற்றும் உங்கள் தனியுரிமை உரிமைகள் மற்றும் பொருந்தக்கூடிய சட்டம் உங்களை எவ்வாறு பாதுகாக்கிறது என்பதை உங்களுக்குத் தெரிவிக்கிறது. இந்தக் கொள்கை ஸ்டார் ஹெல்த் தொடர்பான எந்தவொரு தகவலையும் நேரடியாகவோ அல்லது மறைமுகமாகவோ அணுகக்கூடிய ஸ்டார் ஹெல்த்தின் அனைத்து ஊழியர்கள், அதன் சப்ளையர்கள், விற்பனையாளர்கள் மற்றும் பிற உள் மற்றும் வெளிப்புற ஆர்வமுள்ள தரப்பினருக்கும் பொருந்தும். STAR HEALTH இல், நீங்கள் வழங்கும் உங்கள் தனிப்பட்ட விவரங்கள் மற்றும் நீங்கள் எங்களுடன் பகிர்ந்து கொள்ளும் வேறு எந்த தகவலின் தனியுரிமை மற்றும் பாதுகாப்பைப் பாதுகாக்க நாங்கள் உறுதிபூண்டுள்ளோம், இது எங்கள் வலைத்தளத்தைப் பார்வையிடும்போது உங்களுக்கு சிறந்த அனுபவத்தை வழங்க எங்களுக்கு உதவுகிறது.</p><p> அத்தியாவசிய தள செயல்பாடு, சந்தைப்படுத்தல், தனிப்பயனாக்கம் மற்றும் பகுப்பாய்வு ஆகியவற்றை செயல்படுத்த நாங்கள் குக்கீகளை சேமிக்கிறோம். &quot;அனைத்தையும் ஏற்றுக்கொள்&quot; என்பதைக் கிளிக் செய்வதன் மூலம், எங்கள் குக்கீகளைப் பயன்படுத்துவதற்கு நீங்கள் ஒப்புக்கொள்கிறீர்கள். நீங்கள் எந்த நேரத்திலும் உங்கள் அமைப்புகளை மாற்றலாம்.<br><br> எங்கள் <a href=\"https://google.com\" title=\"https://google.com/ கூகிள்.\" target=\"_blank\">குக்கீ கொள்கை</a> .</p>",
+        "learnMore": "தனிப்பயனாக்கு",
+        "changeDescription": " "
+      },
+      "save": "ஏற்றுக்கொள்",
+      "consentModal": {
+        "title": "ஒப்புதல் விருப்பங்களைத் தனிப்பயனாக்குங்கள்",
+        "description": "பக்கங்களுக்கு இடையே திறமையாக செல்லவும், உங்கள் விருப்பங்களைச் சேமிக்கவும், பொதுவாக ஒரு வலைத்தளத்தின் உங்கள் அனுபவத்தை மேம்படுத்தவும் நாங்கள் குக்கீகளைப் பயன்படுத்துகிறோம். இருப்பினும், தனியுரிமைக்கான உங்கள் உரிமையை நாங்கள் ஒப்புக்கொள்கிறோம், எனவே சில வகையான குக்கீகளை அனுமதிக்காமல் இருக்க நீங்கள் தேர்வு செய்யலாம். மேலும் அறியவும் எங்கள் இயல்புநிலை அமைப்புகளை மாற்றவும் வெவ்வேறு வகை தலைப்புகளைக் கிளிக் செய்யவும். சில வகையான குக்கீகளைத் தடுப்பது தளத்தின் உங்கள் அனுபவத்தைப் பாதிக்கலாம் என்பதை நினைவில் கொள்ளவும். ",
+        "buttons": {
+          "save": "ஏற்றுக்கொள்",
+          "acceptAll": "அனைத்தையும் ஏற்றுக்கொள்",
+          "decline": "அனைத்தையும் நிராகரி"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>இந்த குக்கீகள் வலைத்தள போக்குவரத்து, பயனர் நடத்தை மற்றும் ஈடுபாட்டு முறைகளை பகுப்பாய்வு செய்ய எங்களுக்கு உதவுகின்றன. சேகரிக்கப்பட்ட நுண்ணறிவுகள் உள்ளடக்கத்தை மேம்படுத்தவும், பயன்பாட்டினை மேம்படுத்தவும், ஒட்டுமொத்த தள செயல்திறனை மேம்படுத்தவும் எங்களுக்கு உதவுகின்றன.</p>"
+        },
+        "Others": {
+          "description": "<p>இந்த பிரிவில் முன் வரையறுக்கப்பட்ட வகைகளுக்குள் பொருந்தாத குக்கீகள் அடங்கும், ஆனால் சில வலைத்தள செயல்பாடுகள் அல்லது மேம்பாடுகளுக்கு அவசியமாக இருக்கலாம்.</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "நோக்கம்"
+      },
+      "purposeItem": {
+        "service": "சேவை",
+        "services": "சேவைகள்"
+      }
+    },
+    "gujarati": {
+      "acceptAll": "બધા સ્વીકારો",
+      "accept": "સ્વીકારો",
+      "decline": "બધાને નકારો",
+      "acceptSelected": "પસંદ કરેલ સ્વીકારો",
+      "ok": "બધા સ્વીકારો",
+      "consentNotice": {
+        "description": "<p>અમે તમારી ગોપનીયતાનો આદર કરીએ છીએ.</p><p> આ ગોપનીયતા નીતિ, જ્યારે તમે સેવાનો ઉપયોગ કરો છો ત્યારે અમારી માહિતીના સંગ્રહ, ઉપયોગ અને ખુલાસા અંગે STAR HEALTH નીતિઓ અને પ્રક્રિયાઓનું વર્ણન કરે છે અને તમને તમારા ગોપનીયતા અધિકારો અને લાગુ કાયદો તમારું રક્ષણ કેવી રીતે કરે છે તેની માહિતી આપે છે. આ નીતિ સ્ટાર હેલ્થના તમામ કર્મચારીઓ, તેના સપ્લાયર્સ, વિક્રેતાઓ અને અન્ય આંતરિક અને બાહ્ય રસ ધરાવતા પક્ષોને લાગુ પડે છે જેમની પાસે સ્ટાર હેલ્થ સંબંધિત કોઈપણ પ્રકારની માહિતીની સીધી કે પરોક્ષ ઍક્સેસ છે. STAR HEALTH ખાતે અમે તમે પ્રદાન કરો છો તે તમારી વ્યક્તિગત વિગતો અને તમે અમારી સાથે શેર કરો છો તે કોઈપણ અન્ય માહિતીની ગોપનીયતા અને સુરક્ષાનું રક્ષણ કરવા માટે પ્રતિબદ્ધ છીએ, જે અમારી વેબસાઇટની મુલાકાત દરમિયાન તમને શ્રેષ્ઠ શક્ય અનુભવ પ્રદાન કરવાની મંજૂરી આપે છે.</p><p> અમે સાઇટની આવશ્યક કાર્યક્ષમતા, તેમજ માર્કેટિંગ, વૈયક્તિકરણ અને વિશ્લેષણને સક્ષમ કરવા માટે કૂકીઝનો સંગ્રહ કરીએ છીએ. &quot;બધા સ્વીકારો&quot; પર ક્લિક કરીને, તમે કૂકીઝના અમારા ઉપયોગ માટે સંમતિ આપો છો. તમે કોઈપણ સમયે તમારી સેટિંગ્સ બદલી શકો છો.<br><br> અમારી <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">કૂકી નીતિ</a> .</p>",
+        "learnMore": "કસ્ટમાઇઝ કરો",
+        "changeDescription": " "
+      },
+      "save": "સ્વીકારો",
+      "consentModal": {
+        "title": "સંમતિ પસંદગીઓને કસ્ટમાઇઝ કરો",
+        "description": "અમે કૂકીઝનો ઉપયોગ તમને પૃષ્ઠો વચ્ચે કાર્યક્ષમ રીતે નેવિગેટ કરવામાં, તમારી પસંદગીઓને સંગ્રહિત કરવામાં અને સામાન્ય રીતે વેબસાઇટના તમારા અનુભવને સુધારવામાં મદદ કરવા માટે કરીએ છીએ. જો કે, અમે તમારા ગોપનીયતાના અધિકારને સ્વીકારીએ છીએ અને તેથી તમે અમુક પ્રકારની કૂકીઝને મંજૂરી ન આપવાનું પસંદ કરી શકો છો. વધુ જાણવા અને અમારી ડિફોલ્ટ સેટિંગ્સ બદલવા માટે વિવિધ શ્રેણીના શીર્ષકો પર ક્લિક કરો. કૃપા કરીને નોંધ લો કે ચોક્કસ પ્રકારની કૂકીઝને અવરોધિત કરવાથી સાઇટના તમારા અનુભવને અસર થઈ શકે છે. ",
+        "buttons": {
+          "save": "સ્વીકારો",
+          "acceptAll": "બધા સ્વીકારો",
+          "decline": "બધાને નકારો"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>આ કૂકીઝ અમને વેબસાઇટ ટ્રાફિક, વપરાશકર્તા વર્તણૂક અને જોડાણ પેટર્નનું વિશ્લેષણ કરવામાં મદદ કરે છે. એકત્રિત કરેલી આંતરદૃષ્ટિ અમને સામગ્રીને ઑપ્ટિમાઇઝ કરવા, ઉપયોગીતા વધારવા અને એકંદર સાઇટ પ્રદર્શનને સુધારવાની મંજૂરી આપે છે.</p>"
+        },
+        "Others": {
+          "description": "<p>આ શ્રેણીમાં એવી કૂકીઝનો સમાવેશ થાય છે જે પૂર્વવ્યાખ્યાયિત શ્રેણીઓમાં બંધબેસતી નથી પરંતુ ચોક્કસ વેબસાઇટ કાર્યક્ષમતા અથવા સુધારાઓ માટે જરૂરી હોઈ શકે છે.</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "હેતુ"
+      },
+      "purposeItem": {
+        "service": "સેવા",
+        "services": "સેવાઓ"
+      }
+    },
+    "gu": {
+      "acceptAll": "બધા સ્વીકારો",
+      "accept": "સ્વીકારો",
+      "decline": "બધાને નકારો",
+      "acceptSelected": "પસંદ કરેલ સ્વીકારો",
+      "ok": "બધા સ્વીકારો",
+      "consentNotice": {
+        "description": "<p>અમે તમારી ગોપનીયતાનો આદર કરીએ છીએ.</p><p> આ ગોપનીયતા નીતિ, જ્યારે તમે સેવાનો ઉપયોગ કરો છો ત્યારે અમારી માહિતીના સંગ્રહ, ઉપયોગ અને ખુલાસા અંગે STAR HEALTH નીતિઓ અને પ્રક્રિયાઓનું વર્ણન કરે છે અને તમને તમારા ગોપનીયતા અધિકારો અને લાગુ કાયદો તમારું રક્ષણ કેવી રીતે કરે છે તેની માહિતી આપે છે. આ નીતિ સ્ટાર હેલ્થના તમામ કર્મચારીઓ, તેના સપ્લાયર્સ, વિક્રેતાઓ અને અન્ય આંતરિક અને બાહ્ય રસ ધરાવતા પક્ષોને લાગુ પડે છે જેમની પાસે સ્ટાર હેલ્થ સંબંધિત કોઈપણ પ્રકારની માહિતીની સીધી કે પરોક્ષ ઍક્સેસ છે. STAR HEALTH ખાતે અમે તમે પ્રદાન કરો છો તે તમારી વ્યક્તિગત વિગતો અને તમે અમારી સાથે શેર કરો છો તે કોઈપણ અન્ય માહિતીની ગોપનીયતા અને સુરક્ષાનું રક્ષણ કરવા માટે પ્રતિબદ્ધ છીએ, જે અમારી વેબસાઇટની મુલાકાત દરમિયાન તમને શ્રેષ્ઠ શક્ય અનુભવ પ્રદાન કરવાની મંજૂરી આપે છે.</p><p> અમે સાઇટની આવશ્યક કાર્યક્ષમતા, તેમજ માર્કેટિંગ, વૈયક્તિકરણ અને વિશ્લેષણને સક્ષમ કરવા માટે કૂકીઝનો સંગ્રહ કરીએ છીએ. &quot;બધા સ્વીકારો&quot; પર ક્લિક કરીને, તમે કૂકીઝના અમારા ઉપયોગ માટે સંમતિ આપો છો. તમે કોઈપણ સમયે તમારી સેટિંગ્સ બદલી શકો છો.<br><br> અમારી <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">કૂકી નીતિ</a> .</p>",
+        "learnMore": "કસ્ટમાઇઝ કરો",
+        "changeDescription": " "
+      },
+      "save": "સ્વીકારો",
+      "consentModal": {
+        "title": "સંમતિ પસંદગીઓને કસ્ટમાઇઝ કરો",
+        "description": "અમે કૂકીઝનો ઉપયોગ તમને પૃષ્ઠો વચ્ચે કાર્યક્ષમ રીતે નેવિગેટ કરવામાં, તમારી પસંદગીઓને સંગ્રહિત કરવામાં અને સામાન્ય રીતે વેબસાઇટના તમારા અનુભવને સુધારવામાં મદદ કરવા માટે કરીએ છીએ. જો કે, અમે તમારા ગોપનીયતાના અધિકારને સ્વીકારીએ છીએ અને તેથી તમે અમુક પ્રકારની કૂકીઝને મંજૂરી ન આપવાનું પસંદ કરી શકો છો. વધુ જાણવા અને અમારી ડિફોલ્ટ સેટિંગ્સ બદલવા માટે વિવિધ શ્રેણીના શીર્ષકો પર ક્લિક કરો. કૃપા કરીને નોંધ લો કે ચોક્કસ પ્રકારની કૂકીઝને અવરોધિત કરવાથી સાઇટના તમારા અનુભવને અસર થઈ શકે છે. ",
+        "buttons": {
+          "save": "સ્વીકારો",
+          "acceptAll": "બધા સ્વીકારો",
+          "decline": "બધાને નકારો"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>આ કૂકીઝ અમને વેબસાઇટ ટ્રાફિક, વપરાશકર્તા વર્તણૂક અને જોડાણ પેટર્નનું વિશ્લેષણ કરવામાં મદદ કરે છે. એકત્રિત કરેલી આંતરદૃષ્ટિ અમને સામગ્રીને ઑપ્ટિમાઇઝ કરવા, ઉપયોગીતા વધારવા અને એકંદર સાઇટ પ્રદર્શનને સુધારવાની મંજૂરી આપે છે.</p>"
+        },
+        "Others": {
+          "description": "<p>આ શ્રેણીમાં એવી કૂકીઝનો સમાવેશ થાય છે જે પૂર્વવ્યાખ્યાયિત શ્રેણીઓમાં બંધબેસતી નથી પરંતુ ચોક્કસ વેબસાઇટ કાર્યક્ષમતા અથવા સુધારાઓ માટે જરૂરી હોઈ શકે છે.</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "હેતુ"
+      },
+      "purposeItem": {
+        "service": "સેવા",
+        "services": "સેવાઓ"
+      }
+    },
+    "bengali": {
+      "acceptAll": "সব গ্রহণ করুন",
+      "accept": "গ্রহণ করুন",
+      "decline": "সব প্রত্যাখ্যান করুন",
+      "acceptSelected": "নির্বাচিত গ্রহণ করুন",
+      "ok": "সব গ্রহণ করুন",
+      "consentNotice": {
+        "description": "<p>আমরা আপনার গোপনীয়তাকে সম্মান করি।</p><p> এই গোপনীয়তা নীতিমালা STAR HEALTH-এর পরিষেবা ব্যবহারের সময় আমাদের তথ্য সংগ্রহ, ব্যবহার এবং প্রকাশের নীতিমালা এবং পদ্ধতি বর্ণনা করে এবং আপনার গোপনীয়তার অধিকার এবং প্রযোজ্য আইন আপনাকে কীভাবে সুরক্ষা দেয় সে সম্পর্কে আপনাকে অবহিত করে। এই নীতিমালা স্টার হেলথের সমস্ত কর্মচারী, এর সরবরাহকারী, বিক্রেতা এবং অন্যান্য অভ্যন্তরীণ এবং বহিরাগত আগ্রহী পক্ষের জন্য প্রযোজ্য যাদের স্টার হেলথ সম্পর্কিত যেকোনো ধরণের তথ্যে প্রত্যক্ষ বা পরোক্ষ অ্যাক্সেস রয়েছে। STAR HEALTH-এ আমরা আপনার দেওয়া ব্যক্তিগত বিবরণ এবং আমাদের সাথে শেয়ার করা যেকোনো তথ্যের গোপনীয়তা এবং সুরক্ষা রক্ষা করতে প্রতিশ্রুতিবদ্ধ, যা আমাদের ওয়েবসাইটে আপনার পরিদর্শনের সময় আপনাকে সর্বোত্তম অভিজ্ঞতা প্রদান করতে সহায়তা করে।</p><p> আমরা সাইটের প্রয়োজনীয় কার্যকারিতা, সেইসাথে মার্কেটিং, ব্যক্তিগতকরণ এবং বিশ্লেষণ সক্ষম করার জন্য কুকিজ সংরক্ষণ করি। &quot;সব গ্রহণ করুন&quot; এ ক্লিক করে, আপনি আমাদের কুকিজ ব্যবহারে সম্মতি দিচ্ছেন। আপনি যেকোনো সময় আপনার সেটিংস পরিবর্তন করতে পারেন।<br><br> আমাদের <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">কুকি নীতি</a> ।</p>",
+        "learnMore": "কাস্টমাইজ করুন",
+        "changeDescription": " "
+      },
+      "save": "গ্রহণ করুন",
+      "consentModal": {
+        "title": "সম্মতি পছন্দগুলি কাস্টমাইজ করুন",
+        "description": "আমরা কুকিজ ব্যবহার করি আপনাকে দক্ষতার সাথে বিভিন্ন পৃষ্ঠায় নেভিগেট করতে, আপনার পছন্দগুলি সংরক্ষণ করতে এবং সাধারণত ওয়েবসাইটের অভিজ্ঞতা উন্নত করতে। তবে, আমরা আপনার গোপনীয়তার অধিকার স্বীকার করি এবং তাই আপনি কিছু ধরণের কুকিজকে অনুমতি না দেওয়ার সিদ্ধান্ত নিতে পারেন। আরও জানতে এবং আমাদের ডিফল্ট সেটিংস পরিবর্তন করতে বিভিন্ন বিভাগের শিরোনামে ক্লিক করুন। দয়া করে মনে রাখবেন যে নির্দিষ্ট ধরণের কুকিজ ব্লক করা সাইটের আপনার অভিজ্ঞতাকে প্রভাবিত করতে পারে। ",
+        "buttons": {
+          "save": "গ্রহণ করুন",
+          "acceptAll": "সব গ্রহণ করুন",
+          "decline": "সব প্রত্যাখ্যান করুন"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>এই কুকিজ আমাদের ওয়েবসাইট ট্র্যাফিক, ব্যবহারকারীর আচরণ এবং ব্যস্ততার ধরণ বিশ্লেষণ করতে সাহায্য করে। সংগৃহীত অন্তর্দৃষ্টি আমাদের কন্টেন্ট অপ্টিমাইজ করতে, ব্যবহারযোগ্যতা বাড়াতে এবং সামগ্রিক সাইটের কর্মক্ষমতা উন্নত করতে সাহায্য করে।</p>"
+        },
+        "Others": {
+          "description": "<p>এই বিভাগে এমন কুকিজ অন্তর্ভুক্ত রয়েছে যা পূর্বনির্ধারিত বিভাগগুলিতে খাপ খায় না তবে নির্দিষ্ট ওয়েবসাইটের কার্যকারিতা বা উন্নতির জন্য প্রয়োজনীয় হতে পারে।</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "উদ্দেশ্য"
+      },
+      "purposeItem": {
+        "service": "সেবা",
+        "services": "সেবা"
+      }
+    },
+    "bn": {
+      "acceptAll": "সব গ্রহণ করুন",
+      "accept": "গ্রহণ করুন",
+      "decline": "সব প্রত্যাখ্যান করুন",
+      "acceptSelected": "নির্বাচিত গ্রহণ করুন",
+      "ok": "সব গ্রহণ করুন",
+      "consentNotice": {
+        "description": "<p>আমরা আপনার গোপনীয়তাকে সম্মান করি।</p><p> এই গোপনীয়তা নীতিমালা STAR HEALTH-এর পরিষেবা ব্যবহারের সময় আমাদের তথ্য সংগ্রহ, ব্যবহার এবং প্রকাশের নীতিমালা এবং পদ্ধতি বর্ণনা করে এবং আপনার গোপনীয়তার অধিকার এবং প্রযোজ্য আইন আপনাকে কীভাবে সুরক্ষা দেয় সে সম্পর্কে আপনাকে অবহিত করে। এই নীতিমালা স্টার হেলথের সমস্ত কর্মচারী, এর সরবরাহকারী, বিক্রেতা এবং অন্যান্য অভ্যন্তরীণ এবং বহিরাগত আগ্রহী পক্ষের জন্য প্রযোজ্য যাদের স্টার হেলথ সম্পর্কিত যেকোনো ধরণের তথ্যে প্রত্যক্ষ বা পরোক্ষ অ্যাক্সেস রয়েছে। STAR HEALTH-এ আমরা আপনার দেওয়া ব্যক্তিগত বিবরণ এবং আমাদের সাথে শেয়ার করা যেকোনো তথ্যের গোপনীয়তা এবং সুরক্ষা রক্ষা করতে প্রতিশ্রুতিবদ্ধ, যা আমাদের ওয়েবসাইটে আপনার পরিদর্শনের সময় আপনাকে সর্বোত্তম অভিজ্ঞতা প্রদান করতে সহায়তা করে।</p><p> আমরা সাইটের প্রয়োজনীয় কার্যকারিতা, সেইসাথে মার্কেটিং, ব্যক্তিগতকরণ এবং বিশ্লেষণ সক্ষম করার জন্য কুকিজ সংরক্ষণ করি। &quot;সব গ্রহণ করুন&quot; এ ক্লিক করে, আপনি আমাদের কুকিজ ব্যবহারে সম্মতি দিচ্ছেন। আপনি যেকোনো সময় আপনার সেটিংস পরিবর্তন করতে পারেন।<br><br> আমাদের <a href=\"https://google.com\" title=\"https://google.com\" target=\"_blank\">কুকি নীতি</a> ।</p>",
+        "learnMore": "কাস্টমাইজ করুন",
+        "changeDescription": " "
+      },
+      "save": "গ্রহণ করুন",
+      "consentModal": {
+        "title": "সম্মতি পছন্দগুলি কাস্টমাইজ করুন",
+        "description": "আমরা কুকিজ ব্যবহার করি আপনাকে দক্ষতার সাথে বিভিন্ন পৃষ্ঠায় নেভিগেট করতে, আপনার পছন্দগুলি সংরক্ষণ করতে এবং সাধারণত ওয়েবসাইটের অভিজ্ঞতা উন্নত করতে। তবে, আমরা আপনার গোপনীয়তার অধিকার স্বীকার করি এবং তাই আপনি কিছু ধরণের কুকিজকে অনুমতি না দেওয়ার সিদ্ধান্ত নিতে পারেন। আরও জানতে এবং আমাদের ডিফল্ট সেটিংস পরিবর্তন করতে বিভিন্ন বিভাগের শিরোনামে ক্লিক করুন। দয়া করে মনে রাখবেন যে নির্দিষ্ট ধরণের কুকিজ ব্লক করা সাইটের আপনার অভিজ্ঞতাকে প্রভাবিত করতে পারে। ",
+        "buttons": {
+          "save": "গ্রহণ করুন",
+          "acceptAll": "সব গ্রহণ করুন",
+          "decline": "সব প্রত্যাখ্যান করুন"
+        }
+      },
+      "poweredBy": "Powered by Seqrite",
+      "purposes": {
+        "Analytics": {
+          "description": "<p>এই কুকিজ আমাদের ওয়েবসাইট ট্র্যাফিক, ব্যবহারকারীর আচরণ এবং ব্যস্ততার ধরণ বিশ্লেষণ করতে সাহায্য করে। সংগৃহীত অন্তর্দৃষ্টি আমাদের কন্টেন্ট অপ্টিমাইজ করতে, ব্যবহারযোগ্যতা বাড়াতে এবং সামগ্রিক সাইটের কর্মক্ষমতা উন্নত করতে সাহায্য করে।</p>"
+        },
+        "Others": {
+          "description": "<p>এই বিভাগে এমন কুকিজ অন্তর্ভুক্ত রয়েছে যা পূর্বনির্ধারিত বিভাগগুলিতে খাপ খায় না তবে নির্দিষ্ট ওয়েবসাইটের কার্যকারিতা বা উন্নতির জন্য প্রয়োজনীয় হতে পারে।</p>"
+        }
+      },
+      "service": {
+        "disableAll": {
+          "description": "DisableAll",
+          "title": "Disable"
+        },
+        "optOut": {
+          "description": "Opt Out",
+          "title": "Opt Out"
+        },
+        "purpose": "উদ্দেশ্য"
+      },
+      "purposeItem": {
+        "service": "সেবা",
+        "services": "সেবা"
+      }
     }
   },
   "styling": {
@@ -351,9 +627,9 @@ window.klaroConfig = {
   "declarative": false,
   "groupByPurpose": true,
   "hideToggleAll": false,
-  "appName": "Test website POC - tanmay",
+  "appName": "Test with Seqrite Website",
   "description": "We respects your privacy and is committed to protecting your personal data.",
-  "companyName": "Test website POC - tanmay",
+  "companyName": "Test with Seqrite Website",
   "companyAddress": " ",
   "services": [
     {
